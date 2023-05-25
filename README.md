@@ -5,7 +5,7 @@ I am Selier, I am a Java developer with experience building open source projects
 [![Gmail Badge](https://img.shields.io/badge/-aselierlin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aselierlin@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-分享美的价值-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://selierlin.github.io/)](https://selierlin.github.io/)
 
-[![Kaiwalya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=selierlin&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/selierlin/github-readme-activity-graph)
+[![selierlin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=selierlin&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/selierlin/github-readme-activity-graph)
 
 ## 💻 Devices
 

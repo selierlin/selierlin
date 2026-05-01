@@ -49,10 +49,14 @@
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=selierlin&theme=monokai&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=selierlin&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=7EE787&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selierlin&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=selierlin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=selierlin&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=selierlin&theme=highcontrast&hide_border=true&background=0D1117&ring_color=7EE787&fire_color=FFA657&currStreakLabel=7EE787&sideLabels=C9D1D9&dates=555555" />
 
 </div>
 
